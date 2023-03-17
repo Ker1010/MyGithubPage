@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ker</h1>
 <h3 align="center">Hello there! My name is Ker interest at develop, gaming.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ker1010" alt="ker1010" /></a> </p>
+
 - 🔭 I’m currently working on **Lunar Simulations, self project**
 
 - 👨‍💻 All of my projects are available at [https://ker1010.github.io/aboutme/](https://ker1010.github.io/aboutme/)
@@ -17,3 +19,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ker1010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ker1010" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ker1010&show_icons=true&locale=en" alt="ker1010" /></p>
